@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 🤝 I’m looking for help with [Portfolio Website](https://github.com/arishahmad661/portfolio)
+- 🤝 I’m looking for help with this [Project](https://github.com/arishahmad661/portfolio)
 
-- 👨‍💻 All of my projects are available at [https://arishahmad.com/#/](https://arishahmad.com/#/)
+- 👨‍💻 Check out my [Portfolio Webiste](https://arishahmad.com/#/)
 
 - ⚡ Fun fact **I like Anime**
 
