@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with this [Project](https://github.com/arishahmad661/portfolio)
-
 - 👨‍💻 Check out my [Portfolio Webiste](https://arishahmad.com/#/)
 
 - ⚡ Fun fact **I like Anime**
