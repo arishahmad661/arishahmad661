@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Arish Ahmad and I'm an aspiring software developer.</h3>
+<h3 align="left">Hi 👋! I'm Arish Ahmad and I'm an aspiring software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arishahmad661&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="arishahmad661" /> </p>
 
