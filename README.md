@@ -4,15 +4,15 @@
 
 <img align="right" alt="Cool GIF" width="400" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
 
-- 🌱 I’m currently learning **Flutter Development**.
+- 🌱 I’m currently learning **Flutter Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **arishahmad661@gmail.com**
 
-- ⚡ Fun fact **I like anime.**
+- ⚡ Fun fact **I like anime**
   
-- 🔗 Visit my **<a href="https://arishahmad.in/" target="_blank">Portfolio Website</a>**.
+- 🔗 Visit my **<a href="https://arishahmad.in/" target="_blank">Portfolio Website</a>**
 
 
 
