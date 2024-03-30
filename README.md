@@ -70,6 +70,9 @@
   </a>
 </div>
 
+# LeetCode:
+![LeetCode Stats](https://leetcode.card.workers.dev/FatGum?theme=dark&font=baloo&extension=null)
+
 # HacktoberFest:
 [![An image of @ArishAhmad661's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ArishAhmad661)](https://holopin.io/@ArishAhmad661)
 ###
