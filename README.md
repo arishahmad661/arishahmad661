@@ -6,16 +6,15 @@
 
 - 🌱 I’m currently learning **AWS**
 
+- 🔗 Visit my **<a href="https://arishahmad.in/" target="_blank">Portfolio Website</a>**
+
+- 𓂃🖊 Checkout my **<a href="https://blog.arishahmad.in/" target="_blank">AWS blogs and projects</a>**
+
 <!--- - 👯 I’m looking to collaborate on **Open Source Projects** --->
 
 - 📫 How to reach me **arishahmad661@gmail.com**
 
 - ⚡ Fun fact **I like anime**
-  
-- 🔗 Visit my **<a href="https://arishahmad.in/" target="_blank">Portfolio Website</a>**
-
-- Checkout my **<a href="https://blog.arishahmad.in/" target="_blank">AWS blogs and projects</a>**
-
 
 
 ###
